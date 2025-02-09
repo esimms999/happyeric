@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+This is a simple quarto project. It was designed and built by Eric.
 
-```{r}
-1 + 1
-```
+Previously, Eric built a site with Shiny:
+
+- [HappyPhil](http://happyphil.servebeer.com)
+
+As Eric rapidly approaches retirement, he no longer has the patience for Shiny.
