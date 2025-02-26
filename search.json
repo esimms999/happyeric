@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HappyEric",
-    "section": "",
-    "text": "This page is a celebration of Eric. And what makes him very happy: RETIREMENT!\nEric’s last working day was August 2, 2024.\n\n\nToday is February 25, 2025. Eric has already been retired 207 days."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This is a simple quarto project. It was designed and built by Eric.\nThe challenge I faced in using Quarto is the need to render daily in order to make use of today’s date within the calculations. This has now been automated by making use of GitHub Actions to render daily.\nPreviously, Eric built a site with Shiny:\n\nHappyPhil\n\nAs Eric rapidly approaches retirement, he no longer has the patience for Shiny."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HappyEric",
+    "section": "",
+    "text": "This page is a celebration of Eric. And what makes him very happy: RETIREMENT!\nEric’s last working day was August 2, 2024.\n\n\nToday is February 26, 2025. Eric has already been retired 208 days."
   }
 ]
