@@ -18,12 +18,12 @@ if (abs(days) == 1) {
 }
 
 if(days == 0) {
-  cat("Today is ", format(today_date, "%B %-d, %Y"), ". Eric will hand in the laptop, charger, \nbuilding pass and Amex card. Done!", sep = "")
+  cat("Today is ", format(today_date, "%B %d, %Y"), ". Eric will hand in the laptop, charger, \nbuilding pass and Amex card. Done!", sep = "")
   } else {
     if(days < 0) {
-      msg <- cat("Today is ", format(today_date, "%B %-d, %Y"), ". Eric has already been retired ", days_text, ".", sep = "")
+      msg <- cat("Today is ", format(today_date, "%B %d, %Y"), ". Eric has already been retired ", days_text, ".", sep = "")
       } else {
-        msg <- cat("Today is ", format(today_date, "%B %-d, %Y"), ". Eric has ", days_text, " before he is done.", sep = "")
+        msg <- cat("Today is ", format(today_date, "%B %d, %Y"), ". Eric has ", days_text, " before he is done.", sep = "")
       }
     }
 
