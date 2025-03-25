@@ -26,6 +26,7 @@ if(days == 0) {
         msg <- cat("Today is ", format(today_date, "%B %-d, %Y"), ". Eric has ", days_text, " before he is done.", sep = "")
       }
     }
-
-
 ```
+
+
+v0.1.0
